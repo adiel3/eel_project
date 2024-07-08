@@ -1,0 +1,32 @@
+Animal Condition,Species Description,count
+Healthy,Alligator Snapping Turtle,1
+DOA,American Alligator,1
+Healthy,American Alligator,1
+Unhealthy,American Alligator,1
+Unhealthy,Argentine Black and White Tegu,1
+DOA,Ball Python,1
+DOA,Bearded Dragon,1
+Healthy,Bearded Dragon,1
+Healthy,Boa Constrictor,1
+Healthy,Corn Snake,5
+DOA,Green Iguana,1
+Unhealthy,Green Iguana,1
+Healthy,Leopard Gecko,1
+Healthy,Ornate Box Turtle,1
+DOA,Red-Eared Slider,4
+DOA,Red-Eared Slider,2
+Healthy,Red-Eared Slider,44
+Healthy,Red-Eared Slider,14
+Healthy,Red-Eared Slider,1
+Injured,Red-Eared Slider,14
+Injured,Red-Eared Slider,6
+Unhealthy,Red-Eared Slider,5
+DOA,Softshell Turtle,1
+DOA,Softshell Turtle,1
+Unhealthy,Softshell Turtle,1
+Healthy,Spiny Softshell Turtle,1
+Healthy,Tortoise (Unknown),1
+Healthy,Yellow-Bellied Slider,1
+Injured,Yellow-Bellied Slider,2
+Injured,Yellow-Bellied Slider,1
+Unhealthy,Yellow-Bellied Slider,1
